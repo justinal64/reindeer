@@ -1,0 +1,1 @@
+<h3>In this project I will output combine data from 2 arrays into a single div in index.html</h3>
